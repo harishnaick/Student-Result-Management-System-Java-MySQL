@@ -65,6 +65,6 @@ StudentResultSystem/
 
 Below is a sample console output showing student data, marks, and calculated grades:
 
-<img width="927" height="897" alt="all-results" src="https://github.com/user-attachments/assets/1da12ef5-25b7-4f2e-91ac-b769350c0623" />
+[<img width="927" height="897" alt="all-results" src="https://github.com/user-attachments/assets/1da12ef5-25b7-4f2e-91ac-b769350c0623" />](https://github.com/harishnaick/Student-Result-Management-System-Java-MySQL/blob/main/assets/screenshots/all-results.png)
 
 
