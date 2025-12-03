@@ -61,10 +61,7 @@ StudentResultSystem/
 └── lib/
     └── mysql-connector-java-8.0.19.jar
 
-    ## 🖼️ Output Screenshot - Student Results
+ <img width="927" height="897" alt="all-results" src="https://github.com/user-attachments/assets/4b7e72b8-ca28-4167-94af-4335e7bcaa7f" />
 
-Below is a sample console output showing student data, marks, and calculated grades:
-
-[<img width="927" height="897" alt="all-results" src="https://github.com/user-attachments/assets/1da12ef5-25b7-4f2e-91ac-b769350c0623" />](https://github.com/harishnaick/Student-Result-Management-System-Java-MySQL/blob/main/assets/screenshots/all-results.png)
 
 
