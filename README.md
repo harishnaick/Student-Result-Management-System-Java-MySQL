@@ -65,5 +65,6 @@ StudentResultSystem/
 
 Below is a sample console output showing student data, marks, and calculated grades:
 
-![All Results Output](assets/screenshots/all-results.png)
+<img width="927" height="897" alt="all-results" src="https://github.com/user-attachments/assets/1da12ef5-25b7-4f2e-91ac-b769350c0623" />
+
 
