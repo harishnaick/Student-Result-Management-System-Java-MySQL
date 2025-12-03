@@ -60,3 +60,10 @@ StudentResultSystem/
 │
 └── lib/
     └── mysql-connector-java-8.0.19.jar
+
+    ## 🖼️ Output Screenshot - Student Results
+
+Below is a sample console output showing student data, marks, and calculated grades:
+
+![All Results Output](assets/screenshots/all-results.png)
+
